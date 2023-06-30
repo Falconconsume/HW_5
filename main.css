@@ -1,0 +1,40 @@
+body {
+    background:gray;
+}
+
+.combo,
+.universal 
+{
+    background-color: blue;
+}
+
+#attributes {
+    color: purple;
+}
+
+.put,
+.a_few
+{
+    color: aqua;
+}
+
+h1,
+h2
+{
+    color: green;
+}
+
+.a_few {
+    background:yellow;
+}
+ul li {
+    color:brown;
+}
+
+.group,
+#classes 
+{
+    color:red;
+}
+
+
