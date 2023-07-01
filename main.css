@@ -1,10 +1,9 @@
 body {
-    background:gray;
+    background: gray;
 }
 
 .combo,
-.universal 
-{
+.universal {
     background-color: blue;
 }
 
@@ -13,28 +12,28 @@ body {
 }
 
 .put,
-.a_few
-{
+.a_few {
     color: aqua;
 }
 
 h1,
-h2
-{
+h2 {
     color: green;
 }
 
 .a_few {
-    background:yellow;
+    background: yellow;
 }
+
 ul li {
-    color:brown;
+    color: brown;
 }
 
 .group,
-#classes 
-{
-    color:red;
+#classes {
+    color: red;
 }
 
-
+.group.a_few {
+    color: blueviolet;
+}
